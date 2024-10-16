@@ -17,7 +17,8 @@ namespace ConsoleApp1
             Console.Write("\nDark Red\nDark Yellow\nGray\nGreen\nMagenta\nRed\nWhite\nYellow");
             switch ()
             {
-                case 
+                case;
+                case;
             }
 
             Console.Clear();
